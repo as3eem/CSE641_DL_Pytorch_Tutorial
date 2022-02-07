@@ -1,1 +1,1 @@
-# CSE641_Deep_Learning_Pytorch_Tutoria
+# CSE641_Deep_Learning_Pytorch_Tutorial
